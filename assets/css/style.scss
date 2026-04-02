@@ -1,0 +1,82 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ============================================
+   カスタムスタイル
+   - 本文フォントサイズを小さく
+   - 文字色を黒に統一
+   - 見出しを太字に
+   - 段落間隔を広く
+   ============================================ */
+
+/* 本文エリア全体 */
+.main-content {
+  font-size: 15px;        /* デフォルト16px → 一回り小さく */
+  color: #111111;         /* 黒文字 */
+  line-height: 1.85;      /* 行間を少し広く */
+}
+
+/* 段落の間隔を広く */
+.main-content p {
+  margin-bottom: 1.4em;
+  color: #111111;
+}
+
+/* 見出し：太字・黒 */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  font-weight: 700;
+  color: #111111;
+}
+
+/* h1 */
+.main-content h1 {
+  font-size: 1.6em;
+  margin-top: 1.6em;
+  margin-bottom: 0.8em;
+}
+
+/* h2 */
+.main-content h2 {
+  font-size: 1.3em;
+  margin-top: 2em;
+  margin-bottom: 0.6em;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+/* h3 */
+.main-content h3 {
+  font-size: 1.1em;
+  margin-top: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+/* リスト項目の間隔 */
+.main-content li {
+  margin-bottom: 0.4em;
+  color: #111111;
+}
+
+/* テーブル文字色 */
+.main-content table {
+  font-size: 14px;
+  color: #111111;
+}
+
+/* リンク色 */
+.main-content a {
+  color: #1a6496;
+}
+
+/* ヘッダータイトル */
+.project-name {
+  color: #ffffff;
+  font-weight: 700;
+}
