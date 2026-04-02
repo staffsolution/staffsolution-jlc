@@ -10,7 +10,7 @@
 
 body {
   font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", Meiryo, sans-serif;
-  font-size: 13px;
+  font-size: 15px;
   color: #111;
   background: #fff;
   line-height: 1.9;
@@ -110,7 +110,7 @@ body {
 
 /* ---- 見出し ---- */
 .main-content h1 {
-  font-size: 1.45em;
+  font-size: 1.6em;
   font-weight: 700;
   color: #111;
   margin-top: 0;
@@ -120,7 +120,7 @@ body {
   line-height: 1.4;
 }
 .main-content h2 {
-  font-size: 1.15em;
+  font-size: 1.25em;
   font-weight: 700;
   color: #111;
   margin-top: 2.4em;
@@ -129,14 +129,14 @@ body {
   border-bottom: 1px solid #e0e0e0;
 }
 .main-content h3 {
-  font-size: 1.0em;
+  font-size: 1.1em;
   font-weight: 700;
   color: #111;
   margin-top: 2em;
   margin-bottom: 0.5em;
 }
 .main-content h4 {
-  font-size: 0.95em;
+  font-size: 1.0em;
   font-weight: 700;
   color: #111;
   margin-top: 1.6em;
@@ -165,7 +165,7 @@ body {
   border-collapse: collapse;
   width: 100%;
   margin-bottom: 1.6em;
-  font-size: 12px;
+  font-size: 14px;
 }
 .main-content th {
   background: #f0f1f2;
