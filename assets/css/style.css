@@ -100,6 +100,30 @@ body {
   font-weight: 700;
 }
 
+/* ---- 必読ガイド（ピン留めセクション） ---- */
+.nav-section--pinned {
+  background: #fff8e1;
+  border: 1px solid #f0c040;
+  border-radius: 5px;
+  padding: 8px 10px 10px;
+  margin-bottom: 20px;
+}
+.nav-section--pinned .nav-section-title {
+  color: #b07800;
+  border-bottom-color: #f0c040;
+}
+.nav-section--pinned ul {
+  margin-top: 4px;
+}
+.nav-section--pinned li a {
+  color: #7a5500;
+  font-weight: 600;
+}
+.nav-section--pinned li a:hover {
+  background: #fde98a;
+  color: #3d2a00;
+}
+
 /* ---- メインコンテンツ ---- */
 .main-content {
   flex: 1;
