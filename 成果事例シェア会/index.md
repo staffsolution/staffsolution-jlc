@@ -11,6 +11,7 @@ layout: default
 | 日付 | Zoomを見る | ページ |
 |------|------------|--------|
 | 2026-05-27 | <a href="https://us06web.zoom.us/rec/share/gC2uzlVwbX4QfIrlDm8u-pYGu1cqYi9P5gvpsysjBmbdy5zixvUhOjHNOwiXr2_l.YTNw_GbwxJJmfjzf" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [島崎達矢](2026-05/シェア会_20260527_島崎達矢) |
+| 2026-04-28 | <a href="https://us06web.zoom.us/rec/share/sWP8EMlzxnteRyhaTrShi2kYrgEuIzdmRHdU8wwV0U1VPtq9N_rligO-QU--jpfL.KJOyhoxWFt3-tOEb" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [浦川修一](2026-04/シェア会_20260428_浦川修一) |
 | 2026-03-24 | <a href="https://us06web.zoom.us/rec/share/hV-ChznWmZJA11I_wIU1eQMGRBkQUQD9VVqFEAwOb1mAMck_WZ7pJKSBTRvggrg1.y4XajpQe4k1UVtdW" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [海野昌人（第2回）](2026-03/シェア会_20260324_海野昌人) |
 | 2026-02-17 | <a href="https://us06web.zoom.us/rec/share/F1NnkOFd07rGqbNFevOQ0Ppro2ZRbVhKinlRKXIm7LrgVDf1JikvguwIdah6QpVa.W8nA80KyS4Ukmh3C" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [海野昌人（第1回）](2026-02/シェア会_20260217_海野) |
 | 2026-01-16 | <a href="https://us06web.zoom.us/rec/share/AjXNQnVvWakyYjfuQjexy0F1-lGZRD_GHISMbJ8xhtsJJW48h-xVNubf0iqEbnhL.DTFabtMCVPZuNaup" target="_blank" rel="noopener noreferrer">Zoomを見る ↗</a> | [古里啓太](2026-01/シェア会_20260116_古里啓太) |
